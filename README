@@ -1,0 +1,12 @@
+PA3: netplan
+
+In this assignment we were required to set up a program that would take input as a simple text file in the form of 'Node Node EdgeCost EdgeDistance' and set up an undirected graph, then calculate the total edge cost, the minimum spanning tree, and the shortest path (using dijkstra's) from each node to every other node. 
+
+You can find the implementation of the Minimum Spanning Tree, and Dijkstra's Shortest Path in UndirectedGraph.cpp 
+
+There are several test cases inside the folder TestCases
+
+To run this program:
+
+1. Enter 'Make' in the terminal
+2. Enter './netplan TestCases/(name of the case you wish to test)'
